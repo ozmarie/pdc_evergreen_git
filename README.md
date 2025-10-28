@@ -1,3 +1,7 @@
+# Hi Evergreen
+
+I'll be using this repository to learn alongside my PDC course. The original readme can be found below.
+
 # CSinParallel Code
 
 CSinParallel is an NSF-funded project to support instructors seeking to add Parallel and Distributed Computing (PDC) to their undergraduate computer science courses.  
